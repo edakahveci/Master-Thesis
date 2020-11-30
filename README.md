@@ -8,4 +8,4 @@ takes into consideration the terms related to the aspects and identifies the sen
 have shown great progress in this regard. 
 
 The core of my work is this chronological order in the development of the models the ABSA literature from traditional machine learning models 
-to attention-based transformer models and application of BERT model into the ABSA tasks "Aspect Category Detection", "Aspect Term Extraction", and "Sentiment Polarity"
+to attention-based transformer models and application of BERT model into the ABSA tasks "Aspect Category Detection", "Aspect Term Extraction", and "Sentiment Polarity".
